@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Installer logs
+pip-log.txt
+
+# Scrapy stuff:
+.scrapy
+
+# Environments
+env/
+
+# MacOS
+.DS_Store
